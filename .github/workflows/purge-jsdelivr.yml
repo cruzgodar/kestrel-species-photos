@@ -1,0 +1,49 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge changed files
+        env:
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+        run: |
+          set -euo pipefail
+
+          # The repo is large, so fetch only the two commits' trees (no blobs)
+          # instead of checking out the whole thing.
+          git init -q repo && cd repo
+          git remote add origin "https://github.com/$REPO.git"
+
+          if [[ "$BEFORE" =~ ^0+$ ]] || ! git fetch -q --depth=1 --filter=blob:none --no-tags origin "$BEFORE" "$AFTER"; then
+            # New branch or force push with an unreachable base: just purge the manifest.
+            files="manifest.json"
+          else
+            files=$(git diff --name-only --no-renames "$BEFORE" "$AFTER")
+          fi
+
+          failed=0
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            [[ "$file" == .github/* || "$(basename "$file")" == .DS_Store ]] && continue
+
+            for ref in "" "@$BRANCH"; do
+              url="https://purge.jsdelivr.net/gh/$REPO$ref/$file"
+              if curl -fsS --retry 3 --retry-delay 2 -o /dev/null "$url"; then
+                echo "Purged $url"
+              else
+                echo "::warning::Failed to purge $url"
+                failed=1
+              fi
+              sleep 0.2
+            done
+          done <<< "$files"
+
+          exit $failed
