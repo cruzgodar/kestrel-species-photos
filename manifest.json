@@ -674,6 +674,12 @@
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Australasian_Darter_-_Nepean_Weir.jpg"
     },
+    "anisognathus_igniventris": {
+      "hash": "777f6f2c04aceaf3",
+      "credit": "(c) Nicole LaRoche, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/1103523"
+    },
     "anisognathus_somptuosus": {
       "hash": "f9d5ff2f74eb70f0",
       "credit": "(c) Christoph Moning, some rights reserved (CC BY)",
@@ -712,6 +718,12 @@
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Snow_goose_in_Central_Park_(33138).jpg",
       "code": "snogoo"
+    },
+    "anser_indicus": {
+      "hash": "b6530f27365ee875",
+      "credit": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_02.jpg"
     },
     "anser_rossii": {
       "hash": "c5b936c553eb22a1",
@@ -931,11 +943,23 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/304403831"
     },
+    "arachnothera_longirostra": {
+      "hash": "3c0d780a29c88b18",
+      "credit": "Jackfrowde",
+      "license": "CC BY-SA 4.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:SpiderhunterSabah.jpg"
+    },
     "aramides_cajaneus": {
       "hash": "bf3bfaa6476c13bf",
       "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/7560446"
+    },
+    "aramides_saracura": {
+      "hash": "68f8d1789092361a",
+      "credit": "(c) Heitor Fagundes Beloch, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/20186891"
     },
     "aramides_ypecaha": {
       "hash": "948877e0623c2047",
@@ -1028,6 +1052,12 @@
       "credit": "(c) brock, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/312946853"
+    },
+    "ardenna_pacifica": {
+      "hash": "929de3550e978cb6",
+      "credit": "(c) Jacob Crisp, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/388743084"
     },
     "ardeola_bacchus": {
       "hash": "86f51a074125604b",
@@ -2161,6 +2191,12 @@
       "pageURL": "https://www.inaturalist.org/observations/315606587",
       "code": "vauswi"
     },
+    "chalcomitra_senegalensis": {
+      "hash": "8fcad56f8f3e9772",
+      "credit": "(c) Duncan McKenzie, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/203074758"
+    },
     "chalcophaps_indica": {
       "hash": "ca768e9fcf131ec2",
       "credit": "Jason Thompson",
@@ -2378,6 +2414,12 @@
       "license": "CC-BY",
       "pageURL": "https://www.inaturalist.org/observations/103662312"
     },
+    "chrysococcyx_basalis": {
+      "hash": "271e58180038c8ca",
+      "credit": "JJ Harrison",
+      "license": "CC BY-SA 3.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Horsfield%27s_Bronze_Cuckoo_0A2A3435.jpg"
+    },
     "chrysococcyx_lucidus": {
       "hash": "6e3038a839bc6c17",
       "credit": "(c) Caiden, some rights reserved (CC BY-NC)",
@@ -2491,6 +2533,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/165475457"
     },
+    "cissopis_leverianus": {
+      "hash": "3b8d062c7692a0f7",
+      "credit": "(c) Toby Holmes, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/173605245"
+    },
     "cisticola_chiniana": {
       "hash": "fbf7f40fad62c9e4",
       "credit": "Charles J. Sharp",
@@ -2586,6 +2634,12 @@
       "credit": "(c) Weston Barker, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/129292554"
+    },
+    "coccyzus_minor": {
+      "hash": "42712a29edb5c9c6",
+      "credit": "(c) Don Marsille, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/149993051"
     },
     "cochlearius_cochlearius": {
       "hash": "cb14887063ad981d",
@@ -2759,6 +2813,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/92038440",
       "code": "olsfly"
+    },
+    "contopus_fumigatus": {
+      "hash": "9a3f84875cb34339",
+      "credit": "(c) Omar Miranda B., some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/244587463"
     },
     "contopus_pertinax": {
       "hash": "4876e023a184f64f",
@@ -3085,6 +3145,12 @@
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Fauvette_pitchou_Ichkeul_NP.jpg"
     },
+    "cyanerpes_caeruleus": {
+      "hash": "e114a10cb085f64f",
+      "credit": "(c) Antonino Gonçalves Medina, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/137923006"
+    },
     "cyanerpes_cyaneus": {
       "hash": "6056c9e3fd01a1ba",
       "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
@@ -3286,6 +3352,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/71418128"
     },
+    "dendrocoptes_medius": {
+      "hash": "96a73755bd5b15ac",
+      "credit": "(c) Svetlana Akulova, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/149492051"
+    },
     "dendrocygna_autumnalis": {
       "hash": "0cdb78f247bd935f",
       "credit": "iNaturalist",
@@ -3409,6 +3481,12 @@
       "credit": "(c) Esteban Poveda, some rights reserved (CC BY)",
       "license": "CC-BY",
       "pageURL": "https://www.inaturalist.org/observations/100537730"
+    },
+    "diglossa_humeralis": {
+      "hash": "1cbf773a21136284",
+      "credit": "(c) Jeremy Coleman, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/340218349"
     },
     "dinopium_benghalense": {
       "hash": "cd78a9815cdfec82",
@@ -4053,6 +4131,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/33164167"
     },
+    "formicarius_analis": {
+      "hash": "736e6d5e36be5968",
+      "credit": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+      "license": "CC-BY-SA",
+      "pageURL": "https://www.inaturalist.org/observations/123844202"
+    },
     "forpus_conspicillatus": {
       "hash": "2627761d386e64e0",
       "credit": "(c) Ad Konings, some rights reserved (CC BY-NC)",
@@ -4347,6 +4431,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/227283735"
     },
+    "glareola_pratincola": {
+      "hash": "3db92fef9dde0cdc",
+      "credit": "(c) Fraser Simpson, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/52926997"
+    },
     "glaucidium_brasilianum": {
       "hash": "4942c715800b0f02",
       "credit": "(c) pgarciacarlos, some rights reserved (CC BY-NC)",
@@ -4581,11 +4671,23 @@
       "license": "CC BY 2.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Green-crowned_Brilliant_1.jpg"
     },
+    "heliodoxa_rubinoides": {
+      "hash": "faed75575e636efc",
+      "credit": "(c) cjmatheson, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/191097845"
+    },
     "helmitheros_vermivorum": {
       "hash": "18ce079f82593f87",
       "credit": "(c) Cheryl Rosenfeld, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/160241580"
+    },
+    "hemitriccus_margaritaceiventer": {
+      "hash": "93d0364b109b205b",
+      "credit": "Dario Niz\n\n(DarioNizUruguay)",
+      "license": "Public domain",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:MOSQUETA_OJO_DORADO_Hemitriccus_margaritaceiventer.jpg"
     },
     "henicorhina_leucophrys": {
       "hash": "bcf352859cda0b49",
@@ -4852,6 +4954,12 @@
       "pageURL": "https://www.inaturalist.org/observations/254787304",
       "code": "orcori"
     },
+    "ictinaetus_malaiensis": {
+      "hash": "2b82ea6f30052b1d",
+      "credit": "(c) yc_he, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/345302255"
+    },
     "ictinia_mississippiensis": {
       "hash": "4d9b3c67460017ae",
       "credit": "(c) lupe, some rights reserved (CC BY-NC)",
@@ -4864,6 +4972,12 @@
       "credit": "(c) Nil Rodrigues, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/322641806"
+    },
+    "iduna_caligata": {
+      "hash": "b3ae51347663b659",
+      "credit": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Booted_Warbler_in_Baruipur_January_2026_by_Tisha_Mukherjee_08.jpg"
     },
     "iduna_pallida": {
       "hash": "6d44dd34cb41ad94",
@@ -4921,11 +5035,23 @@
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Red-billed_firefinch_(Lagonosticta_senegala_senegala)_male.jpg"
     },
+    "lagopus_lagopus": {
+      "hash": "3b0dd7f35cbfaf19",
+      "credit": "Yathin S Krishnappa",
+      "license": "CC BY-SA 3.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Lagopus_lagopus_-_adult_(Denali,_2010).jpg"
+    },
     "lalage_leucomela": {
       "hash": "162f8ca2f40142ac",
       "credit": "(c) Peter and Shelly, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/138583863"
+    },
+    "lalage_tricolor": {
+      "hash": "b3a74aa93bd0b4fc",
+      "credit": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "license": "CC BY-SA 4.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Lalage_tricolor_male_2_-_Glen_Davis.jpg"
     },
     "lamprotornis_nitens": {
       "hash": "10c8c16abd200b8d",
@@ -5098,6 +5224,12 @@
       "license": "CC BY-SA 3.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Larus_occidentalis_(Western_Gull),_Point_Lobos,_CA,_US_-_May_2013.jpg",
       "code": "wesgul"
+    },
+    "laterallus_albigularis": {
+      "hash": "2f2831f0a14028c7",
+      "credit": "(c) Ghandi, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/353492235"
     },
     "legatus_leucophaius": {
       "hash": "c931170dc5505b0f",
@@ -5409,6 +5541,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/201709407"
     },
+    "lybius_torquatus": {
+      "hash": "5c1e3850357d21ef",
+      "credit": "(c) bjoern1982, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/182087767"
+    },
     "machetornis_rixosa": {
       "hash": "4927a129d0929133",
       "credit": "Greg Lasley",
@@ -5575,6 +5713,12 @@
       "license": "CC-BY",
       "pageURL": "https://www.inaturalist.org/observations/339972264",
       "code": "rebwoo"
+    },
+    "melanerpes_chrysogenys": {
+      "hash": "473e10426d404edb",
+      "credit": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/109198509"
     },
     "melanerpes_cruentatus": {
       "hash": "6ab8c5097768cf77",
@@ -6319,6 +6463,12 @@
       "license": "CC BY-SA",
       "pageURL": "https://eol.org/pages/1048408"
     },
+    "ocyceros_griseus": {
+      "hash": "e1ed5152db3ffa5b",
+      "credit": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/208449377"
+    },
     "ocyphaps_lophotes": {
       "hash": "4a83ae22e27fb212",
       "credit": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 5D II + Canon 400mm f/5.6 L",
@@ -6595,6 +6745,12 @@
       "credit": "(c) Dechen Penjor Tshering, some rights reserved (CC BY-NC)",
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/337302275"
+    },
+    "passer_diffusus": {
+      "hash": "b22ceb892cca2a60",
+      "credit": "(c) Gerhard Lemmer, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/373956884"
     },
     "passer_domesticus": {
       "hash": "f38339b48a6af704",
@@ -7221,6 +7377,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/366713939"
     },
+    "picumnus_cirratus": {
+      "hash": "361e66a1bd374021",
+      "credit": "(c) Eduardo Luis Beltrocco, some rights reserved (CC BY)",
+      "license": "CC-BY",
+      "pageURL": "https://www.inaturalist.org/observations/133158799"
+    },
     "picus_canus": {
       "hash": "e339179d83ec8193",
       "credit": "TonyCastro",
@@ -7392,6 +7554,12 @@
       "license": "CC BY-SA 2.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Glossy_Ibis_(Plegadis_falcinellus)_(49073334802).jpg",
       "code": "gloibi"
+    },
+    "plocepasser_mahali": {
+      "hash": "a6990e573dcc543d",
+      "credit": "Valentina",
+      "license": "CC BY 2.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Plocepasser_mahali_-Baringo_Lake,_Kenya_-male-8.jpg"
     },
     "ploceus_cucullatus": {
       "hash": "3050e3b87e9535fc",
@@ -7796,6 +7964,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/246061040",
       "code": "brnjay"
+    },
+    "psittacara_erythrogenys": {
+      "hash": "0fe453f19c91efb7",
+      "credit": "(c) coralaviles, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/255632660"
     },
     "psittacara_finschi": {
       "hash": "f04eab2e2a0f0fb8",
@@ -8873,6 +9047,12 @@
       "pageURL": "https://commons.wikimedia.org/wiki/File:927_-_DICKCISSEL_(5-28-2018)_rick_evans_prairie_w_m_a,_hemstead_co,_ar_-01_(3)_(42677954221).jpg",
       "code": "dickci"
     },
+    "spizaetus_tyrannus": {
+      "hash": "4dc02057b87649aa",
+      "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/379074218"
+    },
     "spizella_breweri": {
       "hash": "cc65d9336bc9a8d9",
       "credit": "Chuck Homler d/b/a Focus On Wildlife",
@@ -9152,10 +9332,10 @@
       "code": "brdowl"
     },
     "sturnella_magna": {
-      "hash": "0ccfff53e993df60",
-      "credit": "DickDaniels (http://theworldbirds.org/)",
-      "license": "CC BY-SA 3.0",
-      "pageURL": "https://commons.wikimedia.org/wiki/File:Eastern_Meadowlark_RWD3.jpg",
+      "hash": "4f17c79d66289d1a",
+      "credit": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/9432878",
       "code": "easmea"
     },
     "sturnella_neglecta": {
@@ -9197,6 +9377,12 @@
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Brown_booby_(Sula_leucogaster_leucogaster)_juvenile_Principe.jpg"
     },
+    "sula_nebouxii": {
+      "hash": "76d1287dae9ccd82",
+      "credit": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/109240417"
+    },
     "sylvia_atricapilla": {
       "hash": "b8afb37d577d5fe9",
       "credit": "Juan Emilio from Las Palmas de Gran Canaria, España",
@@ -9221,6 +9407,12 @@
       "credit": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
       "license": "CC-BY-SA",
       "pageURL": "https://www.inaturalist.org/observations/48289350"
+    },
+    "synallaxis_brachyura": {
+      "hash": "9062908ef9f37fb6",
+      "credit": "(c) guyincognito, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/268968183"
     },
     "synallaxis_frontalis": {
       "hash": "66cbf2eea5c7327f",
@@ -9852,6 +10044,12 @@
       "license": "CC-BY-NC",
       "pageURL": "https://www.inaturalist.org/observations/218548671"
     },
+    "turdus_albicollis": {
+      "hash": "e392224e6259cb36",
+      "credit": "Dario Sanches from São Paulo, Brazil",
+      "license": "CC BY-SA 2.0",
+      "pageURL": "https://commons.wikimedia.org/wiki/File:Turdus_albicollis_-Parque_Estadual_da_Serra_da_Cantareira,_Sao_Paulo,_Brasil-8.jpg"
+    },
     "turdus_amaurochalinus": {
       "hash": "a76bf5d3d83ca804",
       "credit": "Greg Lasley",
@@ -9869,6 +10067,12 @@
       "credit": "Dominic Sherony",
       "license": "CC BY-SA 2.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:Chiguanco_Thrush_(Turdus_chiguanco).jpg"
+    },
+    "turdus_eunomus": {
+      "hash": "f208987ab6415d47",
+      "credit": "(c) gg_copen, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/336452725"
     },
     "turdus_falcklandii": {
       "hash": "c340ce0d4fbd72cd",
@@ -10290,6 +10494,12 @@
       "credit": "Charles J. Sharp",
       "license": "CC BY-SA 4.0",
       "pageURL": "https://commons.wikimedia.org/wiki/File:White_monjita_(Xolmis_irupero)_Colonia.jpg"
+    },
+    "yuhina_brunneiceps": {
+      "hash": "bca26ea0efd9d6c0",
+      "credit": "(c) Jing-Yi Lu, some rights reserved (CC BY-NC)",
+      "license": "CC-BY-NC",
+      "pageURL": "https://www.inaturalist.org/observations/192925289"
     },
     "yungipicus_canicapillus": {
       "hash": "6e959fa6e7e2e86f",
